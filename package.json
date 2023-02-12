@@ -1,0 +1,10 @@
+{
+  "name": "@crispinb/huawei-lock",
+  "version": "0.0.1",
+  "type": "module",
+  "bin": { "huawei-lock":"cli.js"
+  },
+	"dependencies": {
+		"huawei-lte-api": "^0.1.1"
+	}
+}
